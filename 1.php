@@ -1,7 +1,9 @@
 <?php
 
 //PHP OOP Tutorial | Interfaces
-echo "<p>Example of interface. It is simple</p>";
+
+echo "<p>This is simple Example of interface</p>";
+
 require_once('interfaces/DotSyntax.interface.php');
 require_once('interfaces/Parsed.interface.php');
 //require_once('interfaces/Compiled.interface.php');
